@@ -8,6 +8,3 @@ and smart contact security.</p>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emilchess/)
 &nbsp;
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=justefg&show_icons=true&theme=graywhite)
